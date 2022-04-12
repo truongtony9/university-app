@@ -1,3 +1,8 @@
+# Application
+Create a page/app that consumes a free open University API (http://universities.hipolabs.com/ some documentation at https://github.com/Hipo/university-domains-list), allow the user to apply filters to the API call by requiring them to select a country from a dropdown (only need to put US/Canada/England in this dropdown), and optionally type a full/partial name in a text box to filter the list further.
+
+The results should be displayed in a grid below these sectors. The name of the university should be displayed, and the user can click on the row to expand additional information about the Univeristy that is returned from the API (school website, country, country code)
+
 # UniversityApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
